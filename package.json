@@ -1,0 +1,25 @@
+{
+  "name": "hyper-eldritch",
+  "version": "1.0.0",
+  "description": "Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With tones from the dark abyss and an emphasis on green and blue, it caters to those who appreciate the darker side of life.",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "author": {
+    "name": "Brent Williams",
+    "email": "functnal@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justbarnt/hyper-eldritch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justbarnt/hyper-eldritch/issues"
+  },
+  "homepage": "https://github.com/justbarnt/hyper-eldritch#readme"
+}
